@@ -6,4 +6,4 @@ def sum_digits(a):
 		sum=sum+b
 		a=a//10
 	return(sum)
-print(sum_digits(a))
+print(sum_digits(a)) 

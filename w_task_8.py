@@ -5,5 +5,5 @@ def sum_digits(a):
 		b=a%10
 		sum=sum+b
 		a=a//10
-	print(sum)
-sum_digits(a)
+	return(sum)
+print(sum_digits(a))
